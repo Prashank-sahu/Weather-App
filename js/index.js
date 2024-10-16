@@ -1,5 +1,4 @@
-// Replace 'YOUR_API_KEY' with your actual API key from WeatherAPI.com
-const API_KEY = 'f4ade27e3a7943359f3192549241510';
+const API_KEY = 'API KEY PLEASE';
 const BASE_URL = 'https://api.weatherapi.com/v1';
 
 const searchForm = document.getElementById('search-form');
